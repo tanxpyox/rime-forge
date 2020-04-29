@@ -1,2 +1,2 @@
-# tanxpyox-rime-forge
-Personal rime configuration files
+# Personal Rime Configuration Forge
+Hosts everything rime-related.
