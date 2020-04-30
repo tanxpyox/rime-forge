@@ -1,4 +1,4 @@
-# Personal Rime Configuration Forge
+# Personal Rime Configuration Repo
 Hosts everything rime-related.
 
 ### How to install the rime-cantonese preset packages:
